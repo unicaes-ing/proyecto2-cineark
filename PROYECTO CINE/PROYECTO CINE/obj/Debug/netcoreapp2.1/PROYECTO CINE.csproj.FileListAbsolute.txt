@@ -1,0 +1,11 @@
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\bin\Debug\netcoreapp2.1\PROYECTO CINE.deps.json
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\bin\Debug\netcoreapp2.1\PROYECTO CINE.runtimeconfig.json
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\bin\Debug\netcoreapp2.1\PROYECTO CINE.runtimeconfig.dev.json
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\bin\Debug\netcoreapp2.1\PROYECTO CINE.dll
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\bin\Debug\netcoreapp2.1\PROYECTO CINE.pdb
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.csprojAssemblyReference.cache
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.csproj.CoreCompileInputs.cache
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.AssemblyInfoInputs.cache
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.AssemblyInfo.cs
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.dll
+C:\Users\andy roldan\source\repos\PROYECTO CINE\PROYECTO CINE\obj\Debug\netcoreapp2.1\PROYECTO CINE.pdb
